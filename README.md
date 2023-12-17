@@ -1,5 +1,3 @@
-แน่นอน! ดังนั้นนี้คือพรีวิวของคุณวรภัทร "himwariBoyz" บน GitHub:
-
 ---
 
 🌟 **himwariBoyz's GitHub Showcase** 🌟
