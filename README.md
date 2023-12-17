@@ -1,5 +1,29 @@
 <h1 align="center">Hi 👋, I'm Worapat klinsukhon</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">แนวคิด Subtitle สำหรับโปรไฟล์ GitHub ของคุณ: "🚀 Exploring the Digital Cosmos | 💻 Coding Enthusiast | Pythonista and JavaScript Ninja | ✨ Crafting Code, One Line at a Time" หรือ "🌐 Navigating the Code Universe | Passionate Developer | Embracing Python, Mastering JavaScript | 🖥️ Bringing Ideas to Life in the Digital Realm"</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himawariboyz&label=Profile%20views&color=0e75b6&style=flat" alt="himawariboyz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himawariboyz" alt="himawariboyz" /></a> </p>
+
+- 🔭 I’m currently working on **ez**
+
+- 🌱 I’m currently learning **ez**
+
+- 👯 I’m looking to collaborate on **ez**
+
+- 🤝 I’m looking for help with **ez**
+
+- 👨‍💻 All of my projects are available at [ez](ez)
+
+- 📝 I regularly write articles on [ez](ez)
+
+- 💬 Ask me about **ez**
+
+- 📫 How to reach me **ez**
+
+- 📄 Know about my experiences [ez](ez)
+
+- ⚡ Fun fact **ez**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
